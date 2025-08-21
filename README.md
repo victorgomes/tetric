@@ -2,6 +2,8 @@
 
 A simple terminal-based Tetris game written in C.
 
+![TetriC Screenshot](tetric.png)
+
 ## How to Compile
 
 To compile the game, simply run the `make` command:
